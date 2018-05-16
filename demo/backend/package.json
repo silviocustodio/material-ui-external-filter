@@ -1,0 +1,17 @@
+{
+  "name": "desh-painel-administrativo",
+  "version": "1.0.0",
+  "description": "Painel de monitoramento de dados",
+  "main": "src/app.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "express-load": "^1.1.16",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.14.3",
+    "pm2": "^2.9.1"
+  },
+  "author": "Silvio Custodio",
+  "license": "MIT"
+}

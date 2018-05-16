@@ -1,0 +1,48 @@
+[
+  {
+  
+    "isActive": false,
+    "ts_netw_st": "2018-03-15 01:00:01",
+    "ts_netw_end": "2018-03-15 01:00:18",
+    "IPv6":"fe80::0102:0304:0506:0002",
+    "IPv6_parent":"fe80::0102:0304:0506:0001",
+    "hops_score":"8.7",
+    "rank_score":"10",
+    "signal_avg_score":"9.93",
+    "signal_var_score":"0",
+    "noak_score":"10",
+    "latency_score":"8.66"
+  },
+  {
+    
+    "isActive": false,
+    "ts_netw_st": "2018-03-15 01:00:01",
+    "ts_netw_end": "2018-03-15 01:00:18",
+    "IPv6":"fe80::0102:0304:0506:0003",
+    "IPv6_parent":"fe80::0102:0304:0506:0001",
+    "hops_score":"10",
+    "rank_score":"10",
+    "signal_avg_score":"0.08",
+    "signal_var_score":"2.89",
+    "noak_score":"10",
+    "latency_score":"8.64"
+  },
+  {
+    
+    "isActive": true,
+    "ts_netw_st": "2018-03-15 01:00:03",
+    "ts_netw_end": "2018-03-15 01:00:18",
+    "IPv6":"fe80::0102:0304:0506:0003",
+    "IPv6_parent":"fe80::0102:0304:0506:0002",
+    "hops_score":"8.87",
+    "rank_score":"10",
+    "signal_avg_score":"0.08",
+    "signal_var_score":"2.89",
+    "noak_score":"10",
+    "latency_score":"7.76"
+  }
+
+
+  
+  
+]

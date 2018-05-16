@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  height: 100%
+}
+
+html, body, #root{
+  height: 100%
+}
+
+logo{
+  background: url(images/desh-logo-color-small.png);
+}
+
+#title_distance{
+  padding-left: 80px;
+}
+
