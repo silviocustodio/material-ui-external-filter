@@ -1,7 +1,7 @@
-cd desh_material-ui-filter\
+cd material-ui-external-filter
 npm start
 
-cd desh_material-ui-filter/demo/backend
+cd material-ui-external-filter/demo/backend
 nodemon express.js
 
 Backend
