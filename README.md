@@ -125,7 +125,7 @@ const reducers = combineReducers({
 
 export default reducers
 ```
-
+Original project ->
 For more information feel free to play around with the [DEMO](https://tarikhuber.github.io/material-ui-filter/).
 
 
