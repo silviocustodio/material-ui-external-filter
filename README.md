@@ -10,9 +10,10 @@ run "npm start"
 cd material-ui-external-filter/demo/backend
 run "nodemon express.js"
 
-#==============================================
-*** In the MySQL database create the  database and connect in Express.js ***
-==============================================
+#  Express.js
+
+In the MySQL database create the  database and connect in Express.js ***
+
 
 # Original Project by 
 Tarik Huber (https://github.com/TarikHuber)
