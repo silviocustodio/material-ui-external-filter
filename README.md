@@ -3,11 +3,13 @@
 cd material-ui-external-filter
 npm start
 
-cd material-ui-external-filter/demo/backend
-nodemon express.js
+
 
 ## Running back-end
-In the MySQL database create the  database and connect in Express.js
+
+cd material-ui-external-filter/demo/backend
+nodemon express.js
+*** In the MySQL database create the  database and connect in Express.js ***
 ==============================================
 
 # Original Project by 
