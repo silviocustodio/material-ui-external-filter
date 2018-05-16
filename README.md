@@ -1,17 +1,22 @@
+
+## running front-end
 cd material-ui-external-filter
 npm start
 
 cd material-ui-external-filter/demo/backend
 nodemon express.js
 
-Backend
+## Running back-end
 No banco de dados MySQL criar o Banco wint
 dentro dele criar rank_param (arquivo SQL incluso no projeto)
 
-(In the MySQL database create the  database with the name " wint "
-within it create rank_param (SQL file included in the project)
+In the MySQL database create the  database and connect it in Express.js
 ==============================================
-Original Project by TarikHuber
+# Original Project by 
+Tarik Huber (https://github.com/TarikHuber)
+
+Maximilian Pichler (https://github.com/MaximilianPichler)
+
 # material-ui-filter
 [![Build Status][travis-image]][travis-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
